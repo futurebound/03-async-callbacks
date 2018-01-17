@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/futurebound/03-async-callbacks#readme",
   "dependencies": {
+    "eslint": "^4.15.0",
     "jest": "^22.1.2"
   }
 }
