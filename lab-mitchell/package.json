@@ -1,0 +1,33 @@
+{
+  "name": "lab-mitchell",
+  "version": "1.0.0",
+  "description": "w1d3 lab",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futurebound/03-async-callbacks.git"
+  },
+  "keywords": [
+    "cf",
+    "jest",
+    "file",
+    "processing"
+  ],
+  "author": "Mitchell Massie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/futurebound/03-async-callbacks/issues"
+  },
+  "homepage": "https://github.com/futurebound/03-async-callbacks#readme",
+  "dependencies": {
+    "eslint": "^4.15.0",
+    "jest": "^22.1.2"
+  }
+}
